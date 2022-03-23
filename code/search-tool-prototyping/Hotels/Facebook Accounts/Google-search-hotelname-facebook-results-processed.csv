@@ -1,0 +1,100 @@
+Hotel City;Hotelname;Account;Results;Found;Place
+Acharavi;Hotel Matoula;FALSE;TRUE;FALSE;-1
+Acharavi;Hotel Acharavi Beach;TRUE;TRUE;TRUE;1
+Adelianos Kampos;Hotel Kathrin Beach;TRUE;TRUE;FALSE;-1
+Afandou;Aelia Resort;FALSE;TRUE;FALSE;-1
+Agia Pelagia;Hotel Alexander House;TRUE;TRUE;TRUE;3
+Agios Gordios;Mayor La Grotta Verde Grand Resort;TRUE;TRUE;FALSE;-1
+Agios Petros;Mayor Capo Di Corfu;TRUE;TRUE;TRUE;1
+Amoudara;smartline Neptuno Beach;TRUE;TRUE;FALSE;-1
+Amoudara;TUI MAGIC LIFE Candia Maris;TRUE;TRUE;TRUE;1
+Amoudara;Apollonia Beach Resort & Spa;TRUE;TRUE;FALSE;-1
+Analipsi;Lyttos Beach Hotel;TRUE;TRUE;TRUE;1
+Analipsi;INSULA ALBA Resort & Spa;TRUE;TRUE;TRUE;1
+Analipsi;Stella Island Resort & Spa;TRUE;TRUE;TRUE;1
+Anissaras;Hotel Anissa Beach & Village;TRUE;TRUE;TRUE;1
+Anissaras;Annabelle Beach Resort;TRUE;TRUE;TRUE;1
+Rhodos;Porto Angeli Beach Resort Hotel;TRUE;TRUE;TRUE;1
+Bali;Hotel Bali Blue Bay;FALSE;TRUE;FALSE;-1
+Faliraki;Hotel Calypso Palace;FALSE;TRUE;FALSE;-1
+Faliraki;Blue Sea Beach Resort;TRUE;TRUE;TRUE;1
+Faliraki;Elysium Resort & Spa Hotel;TRUE;TRUE;TRUE;1
+Faliraki;Hotel Mitsis Faliraki Beach;TRUE;TRUE;FALSE;-1
+Faliraki;Hotel Castello Di Cavalieri Suites;FALSE;TRUE;FALSE;-1
+Georgioupolis;Georgioupolis Resort Aquapark & SPA;TRUE;TRUE;TRUE;1
+Georgioupolis;Hotel Corissia Beach;TRUE;TRUE;TRUE;1
+Georgioupolis;Anemos Luxury Grand Resort;TRUE;TRUE;TRUE;1
+Georgioupolis;Hotel Pilot Beach;TRUE;TRUE;TRUE;1
+Gerakini;Hotel Sonia Village;TRUE;TRUE;FALSE;-1
+Gouves;Hotel Gouves Park Holiday Resort & Waterpark;TRUE;TRUE;TRUE;1
+Hersonissos;Hotel King Minos Palace;FALSE;TRUE;FALSE;-1
+Hersonissos;Hersonissos Village Hotel & Bungalows;TRUE;TRUE;FALSE;-1
+Hersonissos;Hotel Nana Beach;TRUE;TRUE;TRUE;1
+Hersonissos;Hotel Albatros;TRUE;TRUE;FALSE;-1
+Ialysos;Hotel Blue Horizon;FALSE;TRUE;FALSE;-1
+Ialysos;Hotel Sirene Beach;FALSE;TRUE;FALSE;-1
+Ipsos;Marilena Sea View Hotel;FALSE;TRUE;FALSE;-1
+Ixia;Dionysos Hotel;FALSE;TRUE;FALSE;-1
+Kallithea;Hotel Kalithea Horizon Royal;TRUE;TRUE;TRUE;1
+Kallithea;Hotel La Marquise Luxury Resort Complex;TRUE;TRUE;TRUE;1
+Kallithea;Hotel Kalithea Mare Palace;TRUE;TRUE;TRUE;1
+Kallithea;Hotel Esperides Beach/Family Resort;TRUE;TRUE;TRUE;2
+Kamari;Hotel Glaros;TRUE;TRUE;FALSE;-1
+Kardamena;Mitsis Norida Beach Hotel;TRUE;TRUE;FALSE;-1
+Kardamena;Mitsis Family Village Beach Hotel;TRUE;TRUE;FALSE;-1
+Kardamena;Mitsis Blue Domes Exclusive Resort & Spa;TRUE;TRUE;FALSE;-1
+Kardamena;Grand Blue Beach Hotel;TRUE;TRUE;TRUE;1
+Kardamena;Hotel Akti Beach Club;TRUE;TRUE;TRUE;1
+Kiotari;Hotel Rodos/Rhodos Princess Beach;TRUE;TRUE;TRUE;1
+Kiotari;Princess Andriana Resort & Spa;TRUE;TRUE;TRUE;1
+Kiotari;Hotel Mitsis Rhodos Village & Bungalow;TRUE;TRUE;FALSE;-1
+Kiotari;Ekaterini Hotel;TRUE;TRUE;FALSE;-1
+Kokkini Hani;Mitsis Rinela Beach Resort & Spa;TRUE;TRUE;FALSE;-1
+Kolymbia;Delfinia Resort;TRUE;TRUE;TRUE;1
+Kolymbia;Irene Palace Beach Resort;TRUE;TRUE;TRUE;1
+Kolymbia;Niriides Hotel;TRUE;TRUE;FALSE;-1
+Kolymbia;Hotel Relax;TRUE;TRUE;FALSE;-1
+Kyllini;ROBINSON Club Kyllini Beach;TRUE;TRUE;FALSE;-1
+Lardos;Lindos Princess Beach Hotel;TRUE;TRUE;TRUE;1
+Ligaria;CHC Athina Palace Resort & Spa;FALSE;TRUE;FALSE;-1
+Lindos;Lindos White Hotel & Suites;TRUE;TRUE;TRUE;1
+Malia;Hotel Malia Bay;TRUE;TRUE;TRUE;1
+Malia;Ikaros Beach Luxury Resort & Spa;TRUE;TRUE;TRUE;1
+Malia;Hotel Meropi;TRUE;TRUE;FALSE;-1
+Marmari;Hotel Palladium;TRUE;TRUE;FALSE;-1
+Marmari;Caravia Beach Hotel & Bungalows;TRUE;TRUE;TRUE;1
+Marmari;Hotel Sandy Beach;FALSE;TRUE;FALSE;-1
+Paleochora;Hotel Sandy Beach;FALSE;TRUE;FALSE;-1
+Mastichari;Hotel Princess of Kos;TRUE;TRUE;TRUE;1
+Mastichari;TUI MAGIC LIFE Marmari Palace by Atlantica;TRUE;TRUE;FALSE;-1
+Mastichari;Hotel Horizon Beach Resort;TRUE;TRUE;TRUE;1
+Matala;Matala Valley Village;TRUE;TRUE;TRUE;1
+Mparmpati;Hotel Nautilus Barbati;FALSE;TRUE;FALSE;-1
+Nafplio;Hotel Victoria;FALSE;TRUE;FALSE;-1
+Nea Potidea;Hotel Istion Club & Spa;FALSE;TRUE;FALSE;-1
+Nikiti;Hotel Xenios Zeus;TRUE;TRUE;TRUE;2
+Paradeísion;Vallian Village Hotel;TRUE;TRUE;FALSE;-1
+Pefkochori;Hotel Atrium;TRUE;TRUE;FALSE;-1
+Pefkochori;Hotel Alia Palace;TRUE;TRUE;TRUE;1
+Plakias;Hotel Alianthos Garden;TRUE;TRUE;TRUE;2
+Plakias;Sofia Hotel;FALSE;TRUE;FALSE;-1
+Platanes;Nefeli Hotel;TRUE;TRUE;FALSE;-1
+Platanias;Rethymno Village;TRUE;TRUE;TRUE;1
+Plimmiri;TUI MAGIC LIFE Plimmiri;TRUE;TRUE;FALSE;-1
+Psalidi;SENSIMAR Oceanis Beach & Spa Resort;TRUE;TRUE;TRUE;1
+Rethymno;Hotel Odyssia Beach;TRUE;TRUE;FALSE;-1
+Rethymno;SENTIDO Aegean Pearl;TRUE;TRUE;TRUE;1
+Rhodos;smartline Semiramis;TRUE;TRUE;FALSE;-1
+Rhodos;Rhodos Horizon Resort;TRUE;TRUE;TRUE;1
+Roda;Hotel Angela Beach;FALSE;TRUE;FALSE;-1
+Roda;Angela Beach Apartments Superior;FALSE;TRUE;FALSE;-1
+Sani;Sani Beach;TRUE;TRUE;TRUE;5
+Sisi;Maritimo Beach Hotel;FALSE;TRUE;FALSE;-1
+Stalis;Eurohotel Katrin Suites;TRUE;TRUE;TRUE;1
+Stalis;Hotel Marlena;FALSE;TRUE;FALSE;-1
+Stalis;SENTIDO Blue Sea Beach;TRUE;TRUE;TRUE;2
+Stalis;Sergiani Garden Apartments;TRUE;TRUE;FALSE;-1
+Stalis;Eurohotel Katrin Hotel & Bungalows;TRUE;TRUE;TRUE;1
+Tigaki;Hotel Gaia Village;TRUE;TRUE;TRUE;1
+Tigaki;Hotel Gaia In Style;TRUE;TRUE;TRUE;2
+Tigaki;Hotel Tigaki’s Star;TRUE;TRUE;FALSE;-1
